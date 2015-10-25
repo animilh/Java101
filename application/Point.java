@@ -1,4 +1,4 @@
-package application101;
+package application;
 
 public class Point {
 	
